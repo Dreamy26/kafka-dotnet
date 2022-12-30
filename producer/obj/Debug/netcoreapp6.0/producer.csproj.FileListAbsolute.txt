@@ -1,0 +1,5 @@
+C:\Users\wilso\source\kafka-dotnet-getting-started\producer\obj\Debug\netcoreapp6.0\producer.csproj.AssemblyReference.cache
+C:\Users\wilso\source\kafka-dotnet-getting-started\producer\obj\Debug\netcoreapp6.0\producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilso\source\kafka-dotnet-getting-started\producer\obj\Debug\netcoreapp6.0\producer.AssemblyInfoInputs.cache
+C:\Users\wilso\source\kafka-dotnet-getting-started\producer\obj\Debug\netcoreapp6.0\producer.AssemblyInfo.cs
+C:\Users\wilso\source\kafka-dotnet-getting-started\producer\obj\Debug\netcoreapp6.0\producer.csproj.CoreCompileInputs.cache
